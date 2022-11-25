@@ -15,9 +15,6 @@ body{
     display: flex;
     flex-direction: row;
 }
-hr{
-    color:hsl(215, 51%, 70%);
-}
 .avatar{
     width:25px;
     height:25px;
@@ -35,6 +32,7 @@ hr{
 hr{
 background-color: hsl(215, 32%, 27%);  
   color:hsl(215, 32%, 27%);
+    
 }
 .equilibrium{
     width:250px;
