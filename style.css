@@ -29,10 +29,8 @@ body{
     display: flex;
     flex-direction: row;
 }
-hr{
-background-color: hsl(215, 32%, 27%);  
-  color:hsl(215, 32%, 27%);
-    
+boder-top{
+    border-top:2px solid hsl(215, 32%, 27%);
 }
 .equilibrium{
     width:250px;
