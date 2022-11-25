@@ -15,6 +15,10 @@ body{
     display: flex;
     flex-direction: row;
 }
+hr{
+    color:hsl(215, 51%, 70%);
+    border-top:none;
+}
 .avatar{
     width:25px;
     height:25px;
